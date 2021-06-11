@@ -10,5 +10,10 @@
         <option value="rearrange" />
       </set>
     </option>
+    <option name="quickLists">
+      <list>
+        <option value="-1109336397" />
+      </list>
+    </option>
   </component>
 </project>
